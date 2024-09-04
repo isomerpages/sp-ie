@@ -9,17 +9,17 @@ sections:
   - hero:
       background: /images/BEX_Asia_SP_Exhibitor_Banner_02_01_1.jpg
       button: Contact Us
-      url: /contact-us/
+      url: https://www.sp.edu.sg/industry/contact-us
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: BEX Asia
+          description: 4 - 6 September
+          url: https://www.bex-asia.com/
+        - title: Industrial Transformation Asia Pacific (ITAP)
+          description: 14 - 16 October
+          url: https://www.industrial-transformation.com/
+        - title: Singapore Week of Innovation & Technology
+          description: 28 - 30 October
+          url: https://www.switchsg.org/
       variant: image
   - infobar:
       title: BEX Asia
