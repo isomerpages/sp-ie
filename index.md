@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: BEX Asia is Now Happening at Marina Bay Sands Expo Singapore. Come and Join us!
 sections:
   - hero:
       background: /images/BEX_Asia_SP_Exhibitor_Banner_02_01_1.jpg
