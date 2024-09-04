@@ -20,7 +20,10 @@ sections:
         - title: Singapore Week of Innovation & Technology
           description: 28 - 30 October
           url: https://www.switchsg.org/
-      variant: image
+      variant: center
+      size: sm
+      backgroundColor: gray
+      title: Industry Events
   - infobar:
       title: BEX Asia
       subtitle: The built environment expo
