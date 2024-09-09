@@ -23,7 +23,7 @@ sections:
       variant: center
       size: sm
       backgroundColor: gray
-      title: Industry Events
+      title: SP Transformation Made Possible
   - infobar:
       title: BEX Asia
       subtitle: The built environment expo
