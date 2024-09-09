@@ -30,4 +30,11 @@ sections:
       description: 4 - 6 September 2024, Marina Bay Sands
       button: Find out more
       url: https://www.bex-asia.com/
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
