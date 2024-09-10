@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/BEX_Asia_SP_Exhibitor_Banner_02_01_1.jpg
       button: Partner with Us
-      url: https://www.sp.edu.sg/industry/contact-us
+      url: https://www.sp.edu.sg/industry/engagement
       key_highlights:
         - title: BEX Asia
           description: 4 - 6 September
