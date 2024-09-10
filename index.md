@@ -33,13 +33,13 @@ sections:
   - infopic:
       title: Tradeshows
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Find Out More
       alt: Image alt text
+      url: /tradeshows/
   - infopic:
       title: Conferences
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Find Out More
       alt: Image alt text
+      url: /conferences/
 ---
