@@ -31,7 +31,14 @@ sections:
       button: Find out more
       url: https://www.bex-asia.com/
   - infopic:
-      title: Infopic
+      title: Tradeshows
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Conferences
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
