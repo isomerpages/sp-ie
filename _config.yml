@@ -2,8 +2,8 @@ title: Title
 url: https://www.ie.sp.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#000000"
-  secondary-color: "#4a4a4a"
+  primary-color: "#4a4a4a"
+  secondary-color: "#d0021b"
   media-colors:
     - title: media-color-one
       color: "#49759a"
