@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Industry Events
+title: Industry & Partnerships
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
