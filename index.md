@@ -43,4 +43,5 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: /conferences/
+      image: /images/20230922_Singapore_Poly___DTUX_001.jpg
 ---
