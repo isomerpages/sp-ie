@@ -36,6 +36,7 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: /tradeshows/
+      image: /images/2310eclptc_20WSPITP_38484.jpg
   - infopic:
       title: Conferences
       id: infopic
