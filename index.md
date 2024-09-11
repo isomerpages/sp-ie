@@ -24,12 +24,6 @@ sections:
       size: sm
       backgroundColor: gray
       title: SP Transformation Made Possible
-  - infobar:
-      title: BEX Asia
-      subtitle: The built environment expo
-      description: 4 - 6 September 2024, Marina Bay Sands
-      button: Find out more
-      url: https://www.bex-asia.com/
   - infopic:
       title: Tradeshows
       id: infopic
