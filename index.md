@@ -24,6 +24,12 @@ sections:
       size: sm
       backgroundColor: gray
       title: SP Transformation Made Possible
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: Tradeshows
       id: infopic
