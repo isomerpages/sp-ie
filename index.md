@@ -7,7 +7,7 @@ permalink: /
 notification: BEX Asia is Now Happening at Marina Bay Sands Expo Singapore. Come and Join us!
 sections:
   - hero:
-      background: /images/BEX_Asia_SP_Exhibitor_Banner_02_01_1.jpg
+      background: /images/inp_banner_city.jpg
       button: Partner with Us
       url: https://www.sp.edu.sg/industry/engagement
       key_highlights:
