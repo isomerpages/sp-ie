@@ -23,7 +23,7 @@ sections:
       variant: center
       size: sm
       backgroundColor: gray
-      title: Transformation Made Possible
+      title: SP Transformation Made Possible
   - infobar:
       title: “PIONEERING PRODUCTIVITY AND INNOVATION”
       id: infobar
