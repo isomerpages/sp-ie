@@ -27,8 +27,8 @@ sections:
   - infobar:
       title: “PIONEERING PRODUCTIVITY AND INNOVATION”
       id: infobar
-      description: Our aim is to uplift the capabilities of the SMEs to help them
-        transform by enhancing their productivity, innovation and building
+      description: Join us in our events as we share SP’s industry engagement
+        capabilities to enhance your productivity, innovation and building
         talent for the industry.
       button: Find out more
       url: https://www.sp.edu.sg/industry/inp
