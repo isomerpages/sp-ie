@@ -25,11 +25,14 @@ sections:
       backgroundColor: gray
       title: SP Transformation Made Possible
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: “PIONEERING PRODUCTIVITY AND INNOVATION”
+      subtitle: Industry & Partnerships (INP)
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: INP aims to uplift the capabilities of the SMEs to help them
+        transform by enhancing their productivity, innovation and building
+        talent for the industry.
+      button: Find out more
+      url: https://www.sp.edu.sg/industry/inp
   - infopic:
       title: Tradeshows
       id: infopic
