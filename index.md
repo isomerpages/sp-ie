@@ -17,10 +17,10 @@ sections:
         - title: Regional Industry Networking Conference (RINC)
           description: 17 - 18 October
           url: https://www.sp.edu.sg/engineering-cluster/eee/rinc/24
-        - title: Singapore Week of Innovation & Technology
+        - title: Singapore Week of Innovation & Technology (SWITCH)
           description: 28 - 30 October
           url: https://www.switchsg.org/
-        - title: BEX Asia
+        - title: The Built Environment Expo (BEX) Asia
           description: 3 - 5 September 2025
           url: https://www.bex-asia.com/
       variant: center
