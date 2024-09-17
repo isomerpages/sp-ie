@@ -4,7 +4,7 @@ title: SP Industry & Partnerships
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Coming Up Next: ITAP 2024, 14 to 16 Oct at Singapore Expo"
+notification: "Coming Up Next: ITAP - 14 to 16 October at Singapore Expo"
 sections:
   - hero:
       background: /images/inp_banner_city.jpg
@@ -12,13 +12,13 @@ sections:
       url: https://www.sp.edu.sg/industry/engagement
       key_highlights:
         - title: Industrial Transformation Asia Pacific (ITAP)
-          description: 14 - 16 October
+          description: 14 - 16 October 2024
           url: https://www.industrial-transformation.com/
         - title: Regional Industry Networking Conference (RINC)
-          description: 17 - 18 October
+          description: 17 - 18 October 2024
           url: https://www.sp.edu.sg/engineering-cluster/eee/rinc/24
         - title: Singapore Week of Innovation & Technology (SWITCH)
-          description: 28 - 30 October
+          description: 28 - 30 October 2024
           url: https://www.switchsg.org/
         - title: The Built Environment Expo (BEX) Asia
           description: 3 - 5 September 2025
