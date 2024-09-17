@@ -33,8 +33,6 @@ sections:
       description: Join us in our events as we share SP’s industry engagement
         capabilities to enhance your productivity, innovation and building
         talent for the industry.
-      button: Find out more
-      url: https://www.sp.edu.sg/industry/inp
   - infopic:
       title: Tradeshows
       id: infopic
