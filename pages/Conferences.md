@@ -13,11 +13,18 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<p>Past Conferences</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>RINC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>2022</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>DT|UX Summit</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>2022</p>
 </div>
 </details>
 </div>
