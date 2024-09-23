@@ -18,13 +18,15 @@ description: ""
 <details class="isomer-details">
 <summary>RINC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>2022</p>
+<p><a href="https://www.sp.edu.sg/engineering-cluster/eee/alumni/alumni-newsletter/2021-eee-alumni-newsletters/rinc-2023-a-platform-for-industry-academia-synergy-and-global-collaborations-at-sp" rel="noopener nofollow" target="_blank">2023</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>DT|UX Summit</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>2022</p>
+<p><a href="https://www.sp.edu.sg/industry/events/past-events/Detail/dt-ux-summit-2023" rel="noopener nofollow" target="_blank">2023</a>
+</p>
 </div>
 </details>
 </div>
