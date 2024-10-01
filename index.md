@@ -46,4 +46,5 @@ sections:
       title: Past Event Highlights
       subtitle: RECAP
       id: resources
+      button: View More
 ---
