@@ -1,9 +1,0 @@
----
-title: Recap
-date: 2024-10-01
-layout: link
-description: ""
-image: ""
-variant: tiptap
-external: https://www.sp.edu.sg/industry/events/past-events
----
