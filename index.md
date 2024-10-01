@@ -27,6 +27,21 @@ sections:
       size: sm
       backgroundColor: gray
       title: SP Transformation Made Possible
+  - textcards:
+      title: “PIONEERING PRODUCTIVITY AND INNOVATION”
+      id: textcards
+      description: Join us in our events as we share SP’s industry engagement
+        capabilities to enhance your productivity, innovation and building
+        talent for the industry.
+      cards:
+        - title: Tradeshows
+          description: ""
+          linktext: Find Out More
+          url: /tradeshows/
+        - title: Conferences
+          description: ""
+          linktext: Find Out More
+          url: /conferences/
   - infobar:
       title: “PIONEERING PRODUCTIVITY AND INNOVATION”
       id: infobar
