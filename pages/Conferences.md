@@ -19,6 +19,8 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://www.youtube.com/watch?v=Wt2EDo77ssA" rel="noopener nofollow" target="_blank">2023</a>
 </p>
+<p><a href="https://www.youtube.com/watch?v=dCzdXg7sptU" rel="noopener nofollow" target="_blank">2022</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
