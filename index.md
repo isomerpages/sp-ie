@@ -43,7 +43,8 @@ sections:
           linktext: Find Out More
           url: /conferences/
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: Past Event Highlights
+      subtitle: RECAP
       id: resources
+      button: View More
 ---
