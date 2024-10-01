@@ -4,7 +4,6 @@ permalink: /conferences/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -45,4 +44,5 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
