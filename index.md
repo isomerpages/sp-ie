@@ -4,7 +4,7 @@ title: SP Industry Events
 description: An Isomer site of the Singapore Government
 image: /images/SP_Marketing_Logo_Main_RGB_FullColour_on_white_bg.png
 permalink: /
-notification: "Coming Up Next: ITAP - 14 to 16 October at Singapore Expo"
+notification: "Coming Up Next: 14 to 16 October ITAP at Singapore Expo"
 sections:
   - hero:
       background: /images/inp_banner_city.jpg
