@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#b00217"
     - title: media-color-three
-      color: "#00838f"
+      color: "#b00217"
     - title: media-color-four
-      color: "#00838f"
+      color: "#b00217"
     - title: media-color-five
-      color: "#00838f"
+      color: "#b00217"
 description: ""
 permalink: none
 baseurl: ""
