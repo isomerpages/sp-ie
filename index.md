@@ -33,6 +33,18 @@ sections:
       description: Join us in our events as we share SP’s industry engagement
         capabilities to enhance your productivity, innovation and building
         talent for the industry.
+  - textcards:
+      title: Conferences
+      id: textcards
+      cards:
+        - title: RINC
+          description: Empowering Today, Connecting Tomorrow
+          linktext: Find Out More
+          url: https://www.sp.edu.sg/engineering-cluster/eee/rinc/24
+        - title: DT|UX
+          description: Card description
+          linktext: Find Out More
+          url: ""
   - announcements:
       title: Tradeshows
       id: announcements
@@ -63,18 +75,6 @@ sections:
             different fields and markets.
           link_text: Find Out More
           link_url: https://www.switchsg.org/
-  - textcards:
-      title: Conferences
-      id: textcards
-      cards:
-        - title: RINC
-          description: Empowering Today, Connecting Tomorrow
-          linktext: Find Out More
-          url: https://www.sp.edu.sg/engineering-cluster/eee/rinc/24
-        - title: DT|UX
-          description: Card description
-          linktext: Find Out More
-          url: ""
   - resources:
       title: Past Event Highlights
       subtitle: RECAP
