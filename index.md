@@ -27,6 +27,12 @@ sections:
       size: sm
       backgroundColor: gray
       title: SP Transformation Made Possible
+  - infobar:
+      title: “PIONEERING PRODUCTIVITY AND INNOVATION”
+      id: infobar
+      description: Join us in our events as we share SP’s industry engagement
+        capabilities to enhance your productivity, innovation and building
+        talent for the industry.
   - textcards:
       title: “PIONEERING PRODUCTIVITY AND INNOVATION”
       id: textcards
@@ -47,17 +53,4 @@ sections:
       subtitle: RECAP
       id: resources
       button: View More
-  - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
-      id: infocols
-      linktext: Learn more
-      url: https://www.switchsg.org/
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
 ---
