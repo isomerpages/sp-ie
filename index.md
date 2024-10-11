@@ -46,16 +46,23 @@ sections:
             sector.
           link_text: Find Out More
           link_url: https://www.bex-asia.com/
-        - title: New Announcement
-          date: 11 October 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
-        - title: New Announcement
-          date: 11 October 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+        - title: ITAP
+          date: 14 October 2024
+          announcement: Singapore has been selected as the only venue outside Europe to
+            host this HANNOVER MESSE event. This event is the flagship Asian
+            edition of Hannover Messe, which is the world’s largest industrial
+            fair.
+          link_text: Find Out More
+          link_url: https://www.industrial-transformation.com/
+        - title: SWITCH
+          date: 28 October 2024
+          announcement: The Singapore Week of Innovation and Technology (SWITCH) brings
+            together leaders, entrepreneurs, creators, accelerators and
+            investors from the Global-Asia innovation ecosystem. SWITCH provides
+            a global platform to catalyse meaningful collaboration between
+            different fields and markets.
+          link_text: Find Out More
+          link_url: https://www.switchsg.org/
   - textcards:
       title: “PIONEERING PRODUCTIVITY AND INNOVATION”
       id: textcards
