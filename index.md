@@ -33,6 +33,29 @@ sections:
       description: Join us in our events as we share SP’s industry engagement
         capabilities to enhance your productivity, innovation and building
         talent for the industry.
+  - announcements:
+      title: Tradeshows
+      id: announcements
+      announcement_items:
+        - title: BEX Asia
+          date: 03 September 2025
+          announcement: BEX Asia is the definitive platform for local and international
+            brands to explore and connect with key decision makers and potential
+            buyers from the region to generate successful business connections
+            and leads. The built environment (BE) is one of SP's key focus
+            sector.
+          link_text: Find Out More
+          link_url: https://www.bex-asia.com/
+        - title: New Announcement
+          date: 11 October 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+        - title: New Announcement
+          date: 11 October 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
   - textcards:
       title: “PIONEERING PRODUCTIVITY AND INNOVATION”
       id: textcards
