@@ -42,7 +42,7 @@ sections:
           linktext: Find Out More
           url: https://www.bex-asia.com/
         - title: ITAP
-          description: ITAP is the flagship Asian edition of Hannover Messe.
+          description: Asia Pacific's Leading Advanced Manufacturing Event.
           linktext: Find Out More
           url: https://www.industrial-transformation.com/
         - title: SWITCH
