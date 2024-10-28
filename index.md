@@ -38,7 +38,7 @@ sections:
       id: textcards
       cards:
         - title: BEX Asia
-          description: The epicenter of Asia's built environment trade​
+          description: The epicenter of Asia's Built Environment Trade​
           linktext: Find Out More
           url: https://www.bex-asia.com/
         - title: ITAP
@@ -46,7 +46,7 @@ sections:
           linktext: Find Out More
           url: https://www.industrial-transformation.com/
         - title: SWITCH
-          description: Where sparks of innovation, technology & collaboration are unleashed
+          description: Where sparks of Innovation, Technology & Collaboration are unleashed
           linktext: Find Out More
           url: https://www.switchsg.org/
   - textcards:
