@@ -4,7 +4,7 @@ title: SP Industry Events
 description: An Isomer site of the Singapore Government
 image: /images/SP_Marketing_Logo_Main_RGB_FullColour_on_white_bg.png
 permalink: /
-notification: "Coming Up Next: BEX Asia 3 to 5 September 2025 ITAP at SANDS Expo"
+notification: "Coming Up Next: BEX Asia, 3 to 5 September 2025, SANDS Expo"
 sections:
   - hero:
       background: /images/inp_banner_city.jpg
