@@ -4,7 +4,7 @@ title: SP Industry Events
 description: An Isomer site of the Singapore Government
 image: /images/SP_Marketing_Logo_Main_RGB_FullColour_on_white_bg.png
 permalink: /
-notification: "Coming Up Next: 15 to 17 October 2025 ITAP at Singapore Expo"
+notification: "Coming Up Next: BEX Asia 3 to 5 September 2025 ITAP at SANDS Expo"
 sections:
   - hero:
       background: /images/inp_banner_city.jpg
@@ -21,7 +21,7 @@ sections:
           description: 28 - 30 October 2024
           url: https://www.switchsg.org/
         - title: Regional Industry Networking Conference (RINC)
-          description: 17 - 18 October 2024
+          description: ""
           url: https://www.sp.edu.sg/engineering-cluster/eee/rinc/24
       variant: center
       size: sm
