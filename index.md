@@ -54,11 +54,11 @@ sections:
       id: textcards
       cards:
         - title: RINC
-          description: Empowering Today, Connecting Tomorrow
+          description: Empowering Today, Connecting Tomorrow.
           linktext: Find Out More
           url: https://www.sp.edu.sg/engineering-cluster/eee/rinc/24
         - title: DT|UX
-          description: Card description
+          description: For design enthusiasts, UX professionals & tech innovators.
           linktext: Find Out More
           url: ""
   - resources:
