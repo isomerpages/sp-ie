@@ -18,7 +18,7 @@ sections:
           description: 15 - 17 October 2025
           url: https://www.industrial-transformation.com/
         - title: Singapore Week of Innovation & Technology (SWITCH)
-          description: 28 - 30 October 2024
+          description: ""
           url: https://www.switchsg.org/
         - title: Regional Industry Networking Conference (RINC)
           description: ""
@@ -61,7 +61,7 @@ sections:
         - title: DT|UX
           description: For design enthusiasts, UX professionals & tech innovators
           linktext: Find Out More
-          url: ""
+          url: https://www.aipo.ateneo.edu/dtuxsummit2024
   - resources:
       title: Past Event Highlights
       subtitle: RECAP
