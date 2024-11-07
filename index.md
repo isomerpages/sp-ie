@@ -62,6 +62,10 @@ sections:
           description: For design enthusiasts, UX professionals & tech innovators
           linktext: Find Out More
           url: https://www.aipo.ateneo.edu/dtuxsummit2024
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
   - resources:
       title: Past Event Highlights
       subtitle: RECAP
