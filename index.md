@@ -62,10 +62,10 @@ sections:
           description: For design enthusiasts, UX professionals & tech innovators
           linktext: Find Out More
           url: https://www.aipo.ateneo.edu/dtuxsummit2024
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: HR Learning Festival
+          description: Revolutionize your HR processes and drive your business forward
+          linktext: Find Out More
+          url: https://reg.eventnook.com/event/HRLF2024/Post-HRLF-2024
   - resources:
       title: Past Event Highlights
       subtitle: RECAP
