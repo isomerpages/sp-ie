@@ -18,7 +18,7 @@ sections:
           description: 15 - 17 October 2025
           url: https://www.industrial-transformation.com/
         - title: Singapore Week of Innovation & Technology (SWITCH)
-          description: ""
+          description: 29 - 31 October 2025
           url: https://www.switchsg.org/
         - title: Regional Industry Networking Conference (RINC)
           description: ""
